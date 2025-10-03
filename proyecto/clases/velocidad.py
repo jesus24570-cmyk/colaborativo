@@ -1,5 +1,5 @@
 import tkinter as tk
-
+#clase velocidad
 
 class Velocidad:
     def __init__(self, valor, unidad, direccion, tiempo, aceleracion):
